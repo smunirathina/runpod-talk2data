@@ -1,5 +1,3 @@
-fastapi
-uvicorn
+runpod
+requests
 vllm
-transformers
-accelerate
